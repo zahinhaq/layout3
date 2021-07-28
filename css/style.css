@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+  header {
+      background-color:#001E6C ;
+      height: 50px;
+      color: white;
+      text-align: center;
+      padding: 30px;
+      
+  }
+  div {
+      overflow: hidden;
+  }
+
+  nav{
+      float: left;
+      background-color: #FFAA4C ;
+      padding-top: 100px;
+      color: white;
+      height: 200px;
+      width: 30%;
+      font-size: 25px;
+
+      
+    
+  }
+
+  article{
+    float: right;
+    padding-top: 50px;
+    background-color: #5089C6 ;
+    color: rgb(27, 27, 27);
+    height: 250px;
+    width: 70%;
+    font-size: 20px;
+    text-align: center;
+
+  }
+
+.client1{
+    background-color:#716F81;
+    height: 250px;
+    width: 35%;
+    float: left;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 50px;
+
+}
+
+.client2{
+    background-color:#F6AE99;
+    height: 270px;
+    width: 35%;
+    float: left;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 30px;
+
+}
+
+.client3{
+    background-color:#B97A95;
+    height: 230px;
+    width: 30%;
+    float: left;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 70px;
+
+}
+
+  footer{
+      background-color: #035397;
+      color: white;
+      text-align: center;
+      padding: 20px;
+
+  }
+
